@@ -23,3 +23,9 @@ streamlit run app.py
 POST /predict - Predict diagnosis and stage
 GET /health - Check if API is running
 GET /docs - Interactive API documentation
+
+##API Links 
+
+https://web-production-091cb.up.railway.app
+https://web-production-091cb.up.railway.app/docs
+https://web-production-091cb.up.railway.app/predict
